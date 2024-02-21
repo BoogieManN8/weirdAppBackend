@@ -1,0 +1,49 @@
+name: Squats
+description: Feel the burn with this 10 minute leg workout at home, with no equipment needed this 10 minute leg workout with Daniel Ventura will burn those calories and leave your legs burning!
+image: images/squats.jpeg
+vide: videos/squats.mp4
+
+name: Lunges
+description: Do you want to build GREAT Legs but don't know how to do so? Have you ever struggled with knee pain while doing lunges? Danny covers all these topics and the proper way that you should be doing lunges in this video.
+image: images/lunges.jpeg
+video: videos/lunges.mp4
+
+name: Deadlifts
+description: The deadlift, being no more than the safe and sound approach by which any object should be lifted from the ground, keeps company with standing, running, jumping, and throwing for functionality but imparts quick and prominent athletic advantage like no other exercise. It is unrivaled in its simplicity and impact while unique in its capacity for increasing head-to-toe strength.
+image: images/Deadlifts.jpeg
+video: videos/Deadlifts.mp4
+
+name: Leg Press
+description: How to use the leg press safely. Not only is locking the knees a cardinal sin on the leg press, but letting your legs come too close to your chest is too!
+image: images/Leg Press.jpeg
+video: videos/Leg Press.mp4
+
+name: Calf Raises
+description: Calf raises are a strength exercise targeting the gastrocnemius and soleus muscles in the calves. Standing upright, you lift your heels off the ground by pushing through the balls of your feet, then lower back down, controlling the motion. This exercise can be performed with bodyweight, added resistance like dumbbells, or on a calf raise machine. It strengthens the calf muscles, improves ankle stability, and can enhance vertical jump performance.
+image: images/Calf Raises.jpeg
+video: videos/Calf Raises.mp4
+
+name: Hamstring Curl
+description: Hamstring curls, also known as leg curls, are an isolation exercise primarily targeting the hamstring muscles at the back of the thighs. They involve flexing the knees to bring the heels towards the buttocks while the torso remains stationary. This exercise can be performed lying down, standing, or seated on machines, or using resistance bands or a stability ball. It strengthens the hamstrings, aids in knee joint stabilization, and supports posterior chain development.
+image: images/Hamstring Curl.jpeg
+video: videos/Hamstring Curl.mp4
+
+name: Quad Extensions
+description: Quad extensions are an isolation exercise focusing on the quadriceps, the muscle group at the front of the thigh. The movement entails sitting with knees bent and then extending the legs out in front, often using a weighted machine for resistance. This exercise isolates the quads, enhancing muscular definition and strength, and supports knee joint function. It's important to control the motion to prevent strain on the knee.
+image: images/Quad Extensions.jpeg
+video: videos/Quad Extensions.mp4
+
+name: Step-Ups
+description: Step-ups are a compound lower-body exercise that targets the quadriceps, glutes, and hamstrings. The movement involves stepping onto an elevated platform, bench, or step with one foot, then driving through the heel to lift the body upward, bringing the opposite foot to meet the first. This functional exercise promotes balance, coordination, unilateral strength, and can simulate real-world activities like climbing stairs. It also activates the core for stability throughout the movement.
+image: images/Step-Ups.jpeg
+video: videos/Step-Ups.mp4
+
+name: Bulgarian Split Squats
+description: A unilateral lower-body exercise that targets the quads, glutes, and hamstrings. It involves placing one foot behind on an elevated surface and performing a squat with the front leg, promoting balance and flexibility while also challenging stability and strength in the legs and core.
+image: images/Bulgarian Split Squats.jpeg
+video: videos/Bulgarian Split Squats.mp4
+
+name: Glute Bridges
+description: A glute-strengthening exercise performed by lying on your back with knees bent and feet flat on the ground, then lifting the hips towards the ceiling. It activates the gluteus maximus, hamstrings, and core, enhancing posterior chain strength and hip mobility.
+image: images/Glute Bridges.jpeg
+video: videos/Glute Bridges.jpeg

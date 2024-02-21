@@ -1,0 +1,54 @@
+name: Burpees
+description: A full-body exercise that involves a squat, jump, and push-up, ideal for strength and aerobic endurance.
+image: images/Burpees.jpeg
+video: videos/Burpees.mp4
+
+name: Jumping Jacks
+description: A classic cardio exercise improving cardiovascular health and stamina, involving jumping with spread legs and arms.
+image: images/Jumping Jacks.jpeg
+video: videos/Jumping Jacks.mp4
+
+name: Push-Ups
+description: Fundamental body-weight exercise targeting the chest, shoulders, and triceps, enhancing upper body strength.
+image: images/Push-Ups.jpeg
+video: videos/Push-Ups.mp4
+
+name: Pull-Ups
+description: Upper body strength workout targeting back, arm, and shoulder muscles, performed by pulling oneself up on a bar.
+image: images/Pull-Ups.jpeg
+video: videos/Pull-Ups.mp4
+
+name: Bear Crawls
+description: A full-body, functional exercise that improves coordination and strength, mimicking a bear's gait.
+image: images/Bear Crawls.jpeg
+video: videos/Bear Crawls.mp4
+
+name: Turkish Get-Up
+description: A complex movement improving strength and flexibility, involving lying to standing while holding a weight overhead.
+image: images/Turkish Get-Up.jpeg
+video: videos/Turkish Get-Up.mp4
+
+name: Clean and Press
+description: A weightlifting exercise combining a clean and an overhead press, enhancing power and full-body strength.
+image: images/Clean and Press.jpeg
+video: videos/Clean and Press.mp4
+
+name: Snatch Grip Deadlift
+description: A variation of the traditional deadlift with a wider grip, targeting the posterior chain and improving grip strength.
+image: images/Snatch Grip Deadlift.jpeg
+video: videos/Snatch Grip Deadlift.mp4
+
+name: Thrusters
+description: A combination of a front squat and overhead press, this exercise increases lower and upper body strength.
+image: images/Thrusters.jpeg
+video: videos/Thrusters.mp4
+
+name: Kettlebell Snatch
+description: A dynamic kettlebell exercise improving power and strength, involving a one-arm lift from ground to overhead.
+image: images/Kettlebell Snatch.jpeg
+video: videos/Kettlebell Snatch.mp4
+
+name: Dumbbell Snatch
+description: A single-arm, compound exercise that works the shoulders, back, and legs, lifting the weight from ground to overhead.
+image: images/Dumbbell Snatch.jpeg
+video: videos/Dumbbell Snatch.mp4

@@ -1,0 +1,90 @@
+[
+    {
+        "id": "339c6a02-7fb9-401d-b613-1d9d4026c679",
+        "name": "Russian Twists",
+        "description": "A seated exercise targeting obliques by twisting the torso, enhances core strength and rotational mobility.",
+        "image": "images/Russian Twists.jpeg",
+        "video": "videos/Russian Twists.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "e81164df-fb5c-4c65-a18a-2556ac56ffa7",
+        "name": "Crunches",
+        "description": "A fundamental core exercise focusing on the abdominals, crunches involve lifting the upper body off the ground.",
+        "image": "images/Crunches.jpeg",
+        "video": "videos/Crunches.mp4",
+        "difficulty": 1
+    },
+    {
+        "id": "741d5a47-7b0b-4de9-8220-c0ae22136c85",
+        "name": "Bicycle Crunches",
+        "description": "An effective abdominal workout that combines cycling motions with crunches to target the entire core.",
+        "image": "images/Bicycle Crunches.jpeg",
+        "video": "videos/Bicycle Crunches.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "110cc5d5-cf82-4322-b3dd-0da4ce39f311",
+        "name": "Planks",
+        "description": "A static exercise that strengthens the entire core by maintaining a push-up like position for time.",
+        "image": "images/Planks.jpeg",
+        "video": "videos/Planks.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "0d60e70f-e3c5-402f-ac5f-704374142600",
+        "name": "Side Planks",
+        "description": "A variation of the plank focusing on the obliques, performed by supporting the body on one arm and side.",
+        "image": "images/Side Planks.jpeg",
+        "video": "videos/Side Planks.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "d289dff6-2f10-43f8-b61a-26494c660831",
+        "name": "Hanging Leg Raises",
+        "description": "Targets lower abdominals and hip flexors by raising straight legs towards the torso while hanging from a bar.",
+        "image": "images/Hanging Leg Raises.jpeg",
+        "video": "videos/Hanging Leg Raises.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "28ec5229-512f-4ee8-bea2-a7c7c3e49d61",
+        "name": "Ab Rollouts",
+        "description": "An advanced core exercise using an ab wheel to roll forward from kneeling, extending the body horizontally.",
+        "image": "images/Ab Rollouts.jpeg",
+        "video": "videos/Ab Rollouts.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "7b7ea413-f35e-4521-aee7-d9b0f3872c7e",
+        "name": "Medicine Ball Slams",
+        "description": "A full-body, dynamic movement that increases power, involving slamming a medicine ball down to the ground.",
+        "image": "images/Medicine Ball Slams.jpeg",
+        "video": "videos/Medicine Ball Slams.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "7fcd65d3-84f5-44bc-890d-029e4143a2a2",
+        "name": "Oblique V-Ups",
+        "description": "A challenging core exercise targeting the obliques by performing a V-shaped crunch while lying on one's side.",
+        "image": "images/Oblique V-Ups.jpeg",
+        "video": "videos/Oblique V-Ups.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "35c02144-bcab-4410-ade5-e6e15af4a3ba",
+        "name": "Cable Woodchoppers",
+        "description": "A functional exercise that mimics chopping wood, performed with a cable machine to strengthen the core, especially obliques.",
+        "image": "images/Cable Woodchoppers.jpeg",
+        "video": "videos/Cable Woodchoppers.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "6fb6f394-0dfe-4dfe-8808-a5421ca20663",
+        "name": "Reverse Crunches",
+        "description": "Targets the lower abdominals by lifting the hips off the ground and bringing the knees towards the chest.",
+        "image": "images/Reverse Crunches.jpeg",
+        "video": "videos/Reverse Crunches.mp4",
+        "difficulty": 2
+    }
+]

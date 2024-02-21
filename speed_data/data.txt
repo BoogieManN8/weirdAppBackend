@@ -1,0 +1,54 @@
+name: High Knees
+description: There are many benefits of doing high knees exercises every day, and it can be a great way to start your exercise routine. 
+image: images/High Knees.jpeg
+video: videos/High Knees.mp4
+
+name: Butt Kicks
+description: Butt kicks are a cardio exercise that involves jogging in place while kicking heels towards the glutes, improving leg speed.
+image: images/Butt Kicks.jpeg
+video: videos/Butt Kicks.jpeg
+
+name: Sprint Intervals
+description: Sprinting has incredible effects on the human body, as can clearly be seen with a single look at any Olympic sprinter. While long distance runner tend to be thin and toned, sprinters are usually rather muscular and ripped. 
+image: images/Sprint Intervals.jpeg
+video: videos/Sprint Intervals.mp4
+
+name: Agility Ladder
+description: Agility ladder drills enhance coordination, foot speed, and athletic agility through fast, precise footwork patterns.
+image: image/Agility Ladder.jpeg
+video: videos/Agility Ladder.mp4
+
+name: Tuck Jumps
+description: Tuck jumps involve jumping high and bringing knees to chest mid-air, boosting explosive power and lower-body strength.
+image: image/Tuck Jumps.jpeg
+video: videos/Tuck Jumps.mp4
+
+name: Shuttle Runs
+description: Shuttle runs boost speed, agility, and cardiovascular endurance through quick, short-distance back-and-forth sprints.
+image: image/Shuttle Runs.jpeg
+videos: videos/Shuttle Runs.mp4
+
+name: Plyometric Push-Ups
+description: Plyometric push-ups involve explosive push-off from the ground, increasing upper body strength and power.
+image: images/Plyometric Push-Ups.jpeg
+video: videos/Plyometric Push-Ups.mp4
+
+name: Mountain Climbers
+description: Mountain climbers are a dynamic exercise combining cardio and strength training, targeting core, arms, and legs.
+image: images/Mountain Climbers.jpeg
+video: videos/Mountain Climbers.mp4
+
+name: Speed Skaters
+description: Speed skaters mimic ice skating motions on land, enhancing lateral movement, balance, and leg strength.
+image: images/Speed Skaters.jpeg
+video: videos/Speed Skaters.mp4
+
+name: Parachute Sprints
+description: Parachute sprints improve running speed and power by adding resistance through a parachute attached to the runner.
+image: images/Parachute Sprints.jpeg
+video: videos/Parachute Sprints.mp4
+
+name: Resistance Band Sprints
+description: Resistance band sprints involve sprinting while attached to a resistance band, increasing speed and explosive strength.
+image: images/Resistance Band Sprints.jpeg
+video: videos/Resistance Band Sprints.mp4

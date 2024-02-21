@@ -1,0 +1,90 @@
+[
+    {
+        "id": "2f42eb21-67e1-4f89-9c18-a47e02a210e1",
+        "name": "High Knees",
+        "description": "There are many benefits of doing high knees exercises every day, and it can be a great way to start your exercise routine.",
+        "image": "images/High Knees.jpeg",
+        "video": "videos/High Knees.mp4",
+        "difficulty": 1
+    },
+    {
+        "id": "71d86c59-f05d-420a-8b1c-afd0a4695079",
+        "name": "Butt Kicks",
+        "description": "Butt kicks are a cardio exercise that involves jogging in place while kicking heels towards the glutes, improving leg speed.",
+        "image": "images/Butt Kicks.jpeg",
+        "video": "videos/Butt Kicks.jpeg",
+        "difficulty": 1
+    },
+    {
+        "id": "f6b1ff9b-a2cd-4cad-867d-2ac7282f4205",
+        "name": "Sprint Intervals",
+        "description": "Sprinting has incredible effects on the human body, as can clearly be seen with a single look at any Olympic sprinter. While long distance runner tend to be thin and toned, sprinters are usually rather muscular and ripped.",
+        "image": "images/Sprint Intervals.jpeg",
+        "video": "videos/Sprint Intervals.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "a2c4e957-192e-4368-85d8-dd3595d6e6dc",
+        "name": "Agility Ladder",
+        "description": "Agility ladder drills enhance coordination, foot speed, and athletic agility through fast, precise footwork patterns.",
+        "image": "image/Agility Ladder.jpeg",
+        "video": "videos/Agility Ladder.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "941fe421-3530-482f-a9be-73f78bee9348",
+        "name": "Tuck Jumps",
+        "description": "Tuck jumps involve jumping high and bringing knees to chest mid-air, boosting explosive power and lower-body strength.",
+        "image": "image/Tuck Jumps.jpeg",
+        "video": "videos/Tuck Jumps.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "62a7b214-9792-4ff6-9beb-3824df207bc5",
+        "name": "Shuttle Runs",
+        "description": "Shuttle runs boost speed, agility, and cardiovascular endurance through quick, short-distance back-and-forth sprints.",
+        "image": "image/Shuttle Runs.jpeg",
+        "videos": "videos/Shuttle Runs.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "fb013763-ac38-46d2-8b60-9efd1029167b",
+        "name": "Plyometric Push-Ups",
+        "description": "Plyometric push-ups involve explosive push-off from the ground, increasing upper body strength and power.",
+        "image": "images/Plyometric Push-Ups.jpeg",
+        "video": "videos/Plyometric Push-Ups.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "b9f0ca98-039d-4b54-9ba0-d9e64e2ab2c7",
+        "name": "Mountain Climbers",
+        "description": "Mountain climbers are a dynamic exercise combining cardio and strength training, targeting core, arms, and legs.",
+        "image": "images/Mountain Climbers.jpeg",
+        "video": "videos/Mountain Climbers.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "d53521ae-f922-4485-9836-db39a83af7af",
+        "name": "Speed Skaters",
+        "description": "Speed skaters mimic ice skating motions on land, enhancing lateral movement, balance, and leg strength.",
+        "image": "images/Speed Skaters.jpeg",
+        "video": "videos/Speed Skaters.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "39e43f1c-6446-4555-a31e-cb6040b48b14",
+        "name": "Parachute Sprints",
+        "description": "Parachute sprints improve running speed and power by adding resistance through a parachute attached to the runner.",
+        "image": "images/Parachute Sprints.jpeg",
+        "video": "videos/Parachute Sprints.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "cf4922fc-4f76-494c-b249-e4ef3f35d89d",
+        "name": "Resistance Band Sprints",
+        "description": "Resistance band sprints involve sprinting while attached to a resistance band, increasing speed and explosive strength.",
+        "image": "images/Resistance Band Sprints.jpeg",
+        "video": "videos/Resistance Band Sprints.mp4",
+        "difficulty": 3
+    }
+]

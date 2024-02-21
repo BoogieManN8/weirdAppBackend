@@ -1,0 +1,82 @@
+[
+    {
+        "id": "625d567b-b327-4c9c-a506-54842e1783c3",
+        "name": "Squats",
+        "description": "Feel the burn with this 10 minute leg workout at home, with no equipment needed this 10 minute leg workout with Daniel Ventura will burn those calories and leave your legs burning!",
+        "image": "images/squats.jpeg",
+        "video": "videos/squats.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "e93a9768-59f2-4f5a-8238-5e77d86d679e",
+        "name": "Lunges",
+        "description": "Do you want to build GREAT Legs but don't know how to do so? Have you ever struggled with knee pain while doing lunges? Danny covers all these topics and the proper way that you should be doing lunges in this video.",
+        "image": "images/lunges.jpeg",
+        "video": "videos/lunges.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "ec7cb1c4-cacd-4f70-8d1a-a994f2d0ed6c",
+        "name": "Deadlifts",
+        "description": "The deadlift, being no more than the safe and sound approach by which any object should be lifted from the ground, keeps company with standing, running, jumping, and throwing for functionality but imparts quick and prominent athletic advantage like no other exercise. It is unrivaled in its simplicity and impact while unique in its capacity for increasing head-to-toe strength.",
+        "image": "images/Deadlifts.jpeg",
+        "video": "videos/Deadlifts.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "b8e84604-3c6e-42eb-aa93-3ded1ddae131",
+        "name": "Leg Press",
+        "description": "How to use the leg press safely. Not only is locking the knees a cardinal sin on the leg press, but letting your legs come too close to your chest is too!",
+        "image": "images/Leg Press.jpeg",
+        "video": "videos/Leg Press.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "4f116f9a-8051-4885-914c-4cdb5af1bbab",
+        "name": "Calf Raises",
+        "description": "Calf raises are a strength exercise targeting the gastrocnemius and soleus muscles in the calves. Standing upright, you lift your heels off the ground by pushing through the balls of your feet, then lower back down, controlling the motion. This exercise can be performed with bodyweight, added resistance like dumbbells, or on a calf raise machine. It strengthens the calf muscles, improves ankle stability, and can enhance vertical jump performance.",
+        "image": "images/Calf Raises.jpeg",
+        "video": "videos/Calf Raises.mp4",
+        "difficulty": 1
+    },
+    {
+        "id": "d90b15dc-ae7b-40d4-bbbe-5284f692bfee",
+        "name": "Hamstring Curl",
+        "description": "Hamstring curls, also known as leg curls, are an isolation exercise primarily targeting the hamstring muscles at the back of the thighs. They involve flexing the knees to bring the heels towards the buttocks while the torso remains stationary. This exercise can be performed lying down, standing, or seated on machines, or using resistance bands or a stability ball. It strengthens the hamstrings, aids in knee joint stabilization, and supports posterior chain development.",
+        "image": "images/Hamstring Curl.jpeg",
+        "video": "videos/Hamstring Curl.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "c020d8ee-2a20-48f9-83ff-350ea1fe5463",
+        "name": "Quad Extensions",
+        "description": "Quad extensions are an isolation exercise focusing on the quadriceps, the muscle group at the front of the thigh. The movement entails sitting with knees bent and then extending the legs out in front, often using a weighted machine for resistance. This exercise isolates the quads, enhancing muscular definition and strength, and supports knee joint function. It's important to control the motion to prevent strain on the knee.",
+        "image": "images/Quad Extensions.jpeg",
+        "video": "videos/Quad Extensions.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "b24ceb80-4f7a-4682-81ec-376d4f849cb1",
+        "name": "Step-Ups",
+        "description": "Step-ups are a compound lower-body exercise that targets the quadriceps, glutes, and hamstrings. The movement involves stepping onto an elevated platform, bench, or step with one foot, then driving through the heel to lift the body upward, bringing the opposite foot to meet the first. This functional exercise promotes balance, coordination, unilateral strength, and can simulate real-world activities like climbing stairs. It also activates the core for stability throughout the movement.",
+        "image": "images/Step-Ups.jpeg",
+        "video": "videos/Step-Ups.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "624fdbeb-cd3c-46ed-97ae-e09ac4081d8a",
+        "name": "Bulgarian Split Squats",
+        "description": "A unilateral lower-body exercise that targets the quads, glutes, and hamstrings. It involves placing one foot behind on an elevated surface and performing a squat with the front leg, promoting balance and flexibility while also challenging stability and strength in the legs and core.",
+        "image": "images/Bulgarian Split Squats.jpeg",
+        "video": "videos/Bulgarian Split Squats.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "d314abb0-72af-4ad7-9373-fdf3595d1d3f",
+        "name": "Glute Bridges",
+        "description": "A glute-strengthening exercise performed by lying on your back with knees bent and feet flat on the ground, then lifting the hips towards the ceiling. It activates the gluteus maximus, hamstrings, and core, enhancing posterior chain strength and hip mobility.",
+        "image": "images/Glute Bridges.jpeg",
+        "video": "videos/Glute Bridges.mp4",
+        "difficulty": 1
+    }
+]

@@ -1,0 +1,54 @@
+name: Russian Twists
+description: A seated exercise targeting obliques by twisting the torso, enhances core strength and rotational mobility.
+image: images/Russian Twists.jpeg
+video: videos/Russian Twists.mp4
+
+name: Crunches
+description: A fundamental core exercise focusing on the abdominals, crunches involve lifting the upper body off the ground.
+image: images/Crunches.jpeg
+video: videos/Crunches.mp4
+
+name: Bicycle Crunches
+description: An effective abdominal workout that combines cycling motions with crunches to target the entire core.
+image: images/Bicycle Crunches.jpeg
+video: videos/Bicycle Crunches.mp4
+
+name: Planks
+description: A static exercise that strengthens the entire core by maintaining a push-up like position for time.
+image: images/Planks.jpeg
+video: videos/Planks.mp4
+
+name: Side Planks
+description: A variation of the plank focusing on the obliques, performed by supporting the body on one arm and side.
+image: images/Side Planks.jpeg
+video: videos/Side Planks.mp4
+
+name: Hanging Leg Raises
+description: Targets lower abdominals and hip flexors by raising straight legs towards the torso while hanging from a bar.
+image: images/Hanging Leg Raises.jpeg
+video: videos/Hanging Leg Raises.mp4
+
+name: Ab Rollouts
+description: An advanced core exercise using an ab wheel to roll forward from kneeling, extending the body horizontally.
+image: images/Ab Rollouts.jpeg
+video: videos/Ab Rollouts.mp4
+
+name: Medicine Ball Slams
+description: A full-body, dynamic movement that increases power, involving slamming a medicine ball down to the ground.
+image: images/Medicine Ball Slams.jpeg
+video: videos/Medicine Ball Slams.mp4
+
+name: Oblique V-Ups
+description: A challenging core exercise targeting the obliques by performing a V-shaped crunch while lying on one's side.
+image: images/Oblique V-Ups.jpeg
+video: videos/Oblique V-Ups.mp4
+
+name: Cable Woodchoppers
+description: A functional exercise that mimics chopping wood, performed with a cable machine to strengthen the core, especially obliques.
+image: images/Cable Woodchoppers.jpeg
+video: videos/Cable Woodchoppers.mp4
+
+name: Reverse Crunches
+description: Targets the lower abdominals by lifting the hips off the ground and bringing the knees towards the chest.
+image: images/Reverse Crunches.jpeg
+video: videos/Reverse Crunches.mp4

@@ -1,0 +1,91 @@
+[
+    {
+        "id": "1b26bcc9-824e-4e6d-8b33-7a7f2053dbed",
+        "name": "Burpees",
+        "description": "A full-body exercise that involves a squat, jump, and push-up, ideal for strength and aerobic endurance.",
+        "image": "images/Burpees.jpeg",
+        "video": "videos/Burpees.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "cf0426ff-e8d2-4498-aa21-d4d8fb0bf78e",
+        "name": "Jumping Jacks",
+        "description": "A classic cardio exercise improving cardiovascular health and stamina, involving jumping with spread legs and arms.",
+        "image": "images/Jumping Jacks.jpeg",
+        "video": "videos/Jumping Jacks.mp4",
+        "difficulty": 1
+    },
+    {
+        "id": "98596907-db86-4b20-a153-5797e984fcd5",
+        "name": "Push-Ups",
+        "description": "Fundamental body-weight exercise targeting the chest, shoulders, and triceps, enhancing upper body strength.",
+        "image": "images/Push-Ups.jpeg",
+        "video": "videos/Push-Ups.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "2574146f-f23e-4df2-9bd1-d7e9e0593f36",
+        "name": "Pull-Ups",
+        "description": "Upper body strength workout targeting back, arm, and shoulder muscles, performed by pulling oneself up on a bar.",
+        "image": "images/Pull-Ups.jpeg",
+        "video": "videos/Pull-Ups.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "51110ed7-416d-4b3b-a5e8-087e5836a4f8",
+        "name": "Bear Crawls",
+        "description": "A full-body, functional exercise that improves coordination and strength, mimicking a bear's gait.",
+        "image": "images/Bear Crawls.jpeg",
+        "video": "videos/Bear Crawls.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "6d880f7b-9ba6-41d3-8008-1fda77c248de",
+        "name": "Turkish Get-Up",
+        "description": "A complex movement improving strength and flexibility, involving lying to standing while holding a weight overhead.",
+        "image": "images/Turkish Get-Up.jpeg",
+        "video": "videos/Turkish Get-Up.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "07621768-b9c6-4672-a4c8-74aa5ca7c619",
+        "name": "Clean and Press",
+        "description": "A weightlifting exercise combining a clean and an overhead press, enhancing power and full-body strength.",
+        "image": "images/Clean and Press.jpeg",
+        "video": "videos/Clean and Press.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "288a839d-47e5-40e1-994c-7c18ac2e667a",
+        "name": "Snatch Grip Deadlift",
+        "description": "A variation of the traditional deadlift with a wider grip, targeting the posterior chain and improving grip strength.",
+        "image": "images/Snatch Grip Deadlift.jpeg",
+        "video": "videos/Snatch Grip Deadlift.mp4",
+        "difficulty": 1
+    },
+    {
+        "id": "88400626-7882-4916-98eb-ab9b04639723",
+        "name": "Thrusters",
+        "description": "A combination of a front squat and overhead press, this exercise increases lower and upper body strength.",
+        "image": "images/Thrusters.jpeg",
+        "video": "videos/Thrusters.mp4",
+        "difficulty": 3
+    },
+    {
+        "id": "a2cbf7f4-cc13-4fc1-a596-cae84fb9b588",
+        "name": "Kettlebell Snatch",
+        "description": "A dynamic kettlebell exercise improving power and strength, involving a one-arm lift from ground to overhead.",
+        "image": "images/Kettlebell Snatch.jpeg",
+        "video": "videos/Kettlebell Snatch.mp4",
+        "difficulty": 2
+    },
+    {
+        "id": "de090ab7-12ec-4562-b7fa-f59c7c88657b",
+        "name": "Dumbbell Snatch",
+        "description": "A single-arm, compound exercise that works the shoulders, back, and legs, lifting the weight from ground to overhead.",
+        "image": "images/Dumbbell Snatch.jpeg",
+        "video": "videos/Dumbbell Snatch.mp4",
+        "difficulty": 1
+    }
+]
+       
